@@ -1,0 +1,23 @@
+.login
+{
+    text-align: center;  
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+   
+}
+.form
+{
+    border:1em;
+    width: 50%;
+    display:inline-block;    
+}
+.btn{
+    margin-left: 15px;
+}
+.form label {
+    color: rgb(0, 78, 143);
+    font-weight:700;
+}
+
